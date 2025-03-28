@@ -27,18 +27,9 @@ npx expo start
   
 ### App Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <br> Android
-      <img src="https://github.com/user-attachments/assets/e9e91901-f859-4793-9713-57890b755ed4" width="300" />
-    </td>
-    <td align="center">
-      <br> iOS
-      <img src="https://github.com/user-attachments/assets/d8a9f5e6-e26d-4c0f-8701-3bea25c1943a" width="300" />
-    </td>
-  </tr>
-</table>
+|                |              Android (Light)               |              Android (Dark)               | IOS (Light)                            | IOS (Dark)                            |
+ | :------------: | :----------------------------------------: | :---------------------------------------: | -------------------------------------- | ------------------------------------- |
+ | Login Screen | ![](src/assets/lightMode-android.png) | ![](src/assets/darkMode-android.png) | ![](src/assets/lightMode-ios.png) | ![](src/assets/darkMode-ios.png) |
 
 ### Design Reference
 - [Link Dribbble](https://dribbble.com/shots/23643858-Money-Manager-Onboarding-Screen)
